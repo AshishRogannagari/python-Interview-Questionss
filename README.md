@@ -2,6 +2,15 @@
 
 Welcome to the **Python Interview Questions** repository! This project is designed to help beginners and experienced developers alike prepare for Python job interviews. Each day features a new set of interview questions and answers on a specific topic, starting from the basics and gradually covering advanced concepts.
 
+Python Interview Preparation Cycle
+Reflect and Improve
+Access Repository
+Take Mock Interviews
+Study Daily Questions
+Practice Coding
+Review Answers![image](https://github.com/user-attachments/assets/fff86695-f8be-469b-809c-fc8b148b11bb)
+
+
 ### **Day-wise Collection:**
 1. [Day 1: Python Basics](./day_1.md)
 
@@ -15,9 +24,16 @@ Welcome to the **Python Interview Questions** repository! This project is design
   
 ## **Contents**
 
+Beginner Questions
+Programming Skills
+Intermediate Questions
+Advanced Questions![image](https://github.com/user-attachments/assets/127f27bb-107b-4393-85cc-d2d1493ad453)
+
+
 - **Beginner Questions**: Covering the basics like Python syntax, data types, and control flow.
 - **Intermediate Questions**: OOP, file handling, and working with modules and libraries.
 - **Advanced Questions**: Topics like concurrency, decorators, generators, and algorithms.
+  
 
 ---
 
